@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\Primeiro\Vetor\bin\Debug\net6.0\Vetor.exe
+C:\Users\gabri\source\repos\Primeiro\Vetor\bin\Debug\net6.0\Vetor.deps.json
+C:\Users\gabri\source\repos\Primeiro\Vetor\bin\Debug\net6.0\Vetor.runtimeconfig.json
+C:\Users\gabri\source\repos\Primeiro\Vetor\bin\Debug\net6.0\Vetor.dll
+C:\Users\gabri\source\repos\Primeiro\Vetor\bin\Debug\net6.0\Vetor.pdb
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\Vetor.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\Vetor.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\Vetor.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\Vetor.dll
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\refint\Vetor.dll
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\Vetor.pdb
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\Vetor.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Primeiro\Vetor\obj\Debug\net6.0\ref\Vetor.dll

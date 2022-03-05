@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\Met-Abstratos.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\Met-Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\Met-Abstratos.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\Met-Abstratos.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\Met-Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\bin\Debug\net6.0\Met-Abstratos.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\bin\Debug\net6.0\Met-Abstratos.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\bin\Debug\net6.0\Met-Abstratos.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\bin\Debug\net6.0\Met-Abstratos.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\bin\Debug\net6.0\Met-Abstratos.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\Met-Abstratos.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\refint\Met-Abstratos.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\Met-Abstratos.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\Met-Abstratos.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Met-Abstratos\Met-Abstratos\obj\Debug\net6.0\ref\Met-Abstratos.dll

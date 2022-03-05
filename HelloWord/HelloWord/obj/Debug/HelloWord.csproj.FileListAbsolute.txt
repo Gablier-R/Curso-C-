@@ -1,0 +1,8 @@
+C:\Users\gabri\source\repos\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\gabri\source\repos\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+C:\Users\gabri\source\repos\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\gabri\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\gabri\source\repos\HelloWord\HelloWord\obj\Debug\HelloWord.pdb

@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\Aula43.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\Aula43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\Aula43.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\Aula43.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\Aula43.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Primeiro\Aula43\bin\Debug\net6.0\Aula43.exe
+C:\Users\gabri\source\repos\Primeiro\Aula43\bin\Debug\net6.0\Aula43.deps.json
+C:\Users\gabri\source\repos\Primeiro\Aula43\bin\Debug\net6.0\Aula43.runtimeconfig.json
+C:\Users\gabri\source\repos\Primeiro\Aula43\bin\Debug\net6.0\Aula43.dll
+C:\Users\gabri\source\repos\Primeiro\Aula43\bin\Debug\net6.0\Aula43.pdb
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\Aula43.dll
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\refint\Aula43.dll
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\Aula43.pdb
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\Aula43.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Primeiro\Aula43\obj\Debug\net6.0\ref\Aula43.dll
